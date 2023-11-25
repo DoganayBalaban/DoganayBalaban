@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kami_0w" target="blank"><img src="https://img.shields.io/twitter/follow/kami_0w?logo=twitter&style=for-the-badge" alt="kami_0w" /></a> </p>
 
-- 🌱 I’m currently learning **GO Languages and Frameworks.**
+- 🌱 I’m currently learning **PHP.**
 
 - 📫 How to reach me **dbalaban1907@gmail.com**
 
