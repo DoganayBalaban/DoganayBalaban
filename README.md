@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doganaybalaban&label=Profile%20views&color=0e75b6&style=flat" alt="doganaybalaban" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kami_0w" target="blank"><img src="https://img.shields.io/twitter/follow/kami_0w?logo=twitter&style=for-the-badge" alt="kami_0w" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js and React Native.**
 
 - 📫 How to reach me **balabandoganay@gmail.com**
