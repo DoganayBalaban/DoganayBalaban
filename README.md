@@ -14,7 +14,7 @@
 🎓 I'm a 4th-year Software Engineering student at Kırklareli University.  
 💻 Passionate about building full-stack applications with modern technologies.  
 📚 Interests: Web development, mobile apps, AI, and cloud computing.  
-🌱 Currently learning **Microservices** architecture.  
+🌱 Currently learning **Microservices** architecture and **AWS**.  
 
 ---
 
