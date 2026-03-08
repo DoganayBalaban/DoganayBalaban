@@ -27,8 +27,8 @@
 
 ## 📌 Featured Projects
 - 🔗 [Kai Fusion](https://github.com/kafein-product-space/KAI-Fusion) → Workflow automation with AI integration  
-- 🔗 [Retouchly](https://github.com/DoganayBalaban/Retouchly) → AI-powered image editing app  
-- 🔗 [Kitapp](https://github.com/DoganayBalaban/Kitapp) → Book tracking & recommendation app with AI  
+- 🔗 [Timelyne](https://github.com/DoganayBalaban/Timelyne) → All in one timeline-driven system. 
+- 🔗 [Retouchly](https://github.com/DoganayBalaban/Retouchly) → AI-powered image editing app
 
 ---
 
